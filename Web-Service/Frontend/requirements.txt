@@ -1,0 +1,16 @@
+streamlit
+requests
+asyncio
+websockets
+boto3
+zipfile36
+asyncio
+snowflake
+snowflake-connector-python
+pinecone-client
+google-generativeai==0.3.1
+openai
+pillow
+python-multipart
+boto3
+gTTS

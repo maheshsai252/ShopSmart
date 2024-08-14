@@ -1,0 +1,23 @@
+fastapi>=0.68.0,<0.69.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+asyncio
+websockets
+snowflake
+snowflake-connector-python
+pinecone-client
+# google-generativeai==0.3.1
+openai
+pillow
+python-multipart
+boto3
+transformers
+pillow
+torch
+sqlalchemy
+snowflake-sqlalchemy
+passlib
+python-jose[cryptography]
+pytest
+langchain-openai
+langchain
