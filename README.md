@@ -1,5 +1,3 @@
-# Final Project Proposal
-
 ## Project Overview
 ShopSmart is designed to revolutionize your shopping experience by offering product suggestions tailored to your unique preferences, including interests, gender, and other personal factors. Imagine simply entering a prompt and instantly receiving a curated list of products that feel as if they were handpicked just for you. ShopSmart not only brings these products to your fingertips but also provides concise summaries and detailed descriptions to help you understand the key features of each item.
 
@@ -54,9 +52,6 @@ openai_key = xxxx
 gemini_key=xxxx
 JWT_SECRET=xxxx
 ```
-
-You can download the dataset from data source in addition to existing one https://jmcauley.ucsd.edu/data/amazon_v2/index.html, please place the downloaded file in the resources folder .
-/Web-Service/Backend/resources
 
 Run Docker compose build for initializing and running the containers for Airflow and Web App.
 
