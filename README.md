@@ -10,6 +10,7 @@ What sets ShopSmart apart is its user-friendly wishlist page, where you can save
 
 [![User Manual](https://img.shields.io/badge/-User%20Manual-green?style=for-the-badge)](https://docs.google.com/document/d/15pDnNdHlmCXaaEcZROz4v-op_vVbvMunByE-UpY5CHo/edit?usp=sharing)
 
+[![Explanation PDF](https://img.shields.io/badge/-Explanation%20PDF-pink?style=for-the-badge)]()
 
 ## Tech Stack
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
