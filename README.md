@@ -76,6 +76,10 @@ Now the application is up and running. Now navigate to below link to check the a
 |-------------------------------------------|------------|
 | Sai Durga Mahesh Bandaru                  | 002991373  |
 | ManikantaManikanta Reddy Thikkavarapu     | 002704579  |
+
+## Contact
+
+Sai Durga Mahesh - maheshsai252@gmil.com - https://www.linkedin.com/in/mahesh-sai252/
 # License
 
 MIT License
