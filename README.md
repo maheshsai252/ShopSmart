@@ -5,7 +5,7 @@ What sets ShopSmart apart is its user-friendly wishlist page, where you can save
 
 ## Project Resources
 
-[![Demo Video](https://img.shields.io/badge/-Demo%20Video-red?style=for-the-badge)](https://youtu.be/Y_Qe20M7ZzA)
+[![Demo Video](https://img.shields.io/badge/-Demo%20Video-red?style=for-the-badge)](https://youtu.be/_LWDJBJQ2o4)
 [![Application](https://img.shields.io/badge/-Live%20Application-yellow?style=for-the-badge)](http://18.117.231.7:8501/)
 
 [![User Manual](https://img.shields.io/badge/-User%20Manual-green?style=for-the-badge)](https://docs.google.com/document/d/15pDnNdHlmCXaaEcZROz4v-op_vVbvMunByE-UpY5CHo/edit?usp=sharing)
@@ -71,5 +71,15 @@ docker-compose up
 Now the application is up and running. Now navigate to below link to check the application in the web browser.
 
 0.0.0.0:8501
+## Contributions
+| Name                                      | NUID       |
+|-------------------------------------------|------------|
+| Sai Durga Mahesh Bandaru                  | 002991373  |
+| ManikantaManikanta Reddy Thikkavarapu     | 002704579  |
+# License
 
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
