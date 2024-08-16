@@ -6,7 +6,7 @@ What sets ShopSmart apart is its user-friendly wishlist page, where you can save
 ## Project Resources
 
 [![Demo Video](https://img.shields.io/badge/-Demo%20Video-red?style=for-the-badge)](https://youtu.be/_LWDJBJQ2o4)
-[![Application](https://img.shields.io/badge/-Live%20Application-yellow?style=for-the-badge)](http://18.117.231.7:8501/)
+[![Application](https://img.shields.io/badge/-Live%20Application-yellow?style=for-the-badge)](http://52.14.170.153:8501/)
 
 [![User Manual](https://img.shields.io/badge/-User%20Manual-green?style=for-the-badge)](https://docs.google.com/document/d/15pDnNdHlmCXaaEcZROz4v-op_vVbvMunByE-UpY5CHo/edit?usp=sharing)
 
